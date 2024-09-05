@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+Thanks for making it to my profile!
+
+Welcome to the humble haven of a passionate programmer. Feel free to ask questions and share ideas. If you are open-minded and driven by tech enthusiasm, we can make a good team.
+
 ![some non-letter content to make you more comfortable](./m.gif)
 <!--
 **patonik/patonik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
