@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![some non-letter content to make you more comfortable](./m.gif)
 <!--
 **patonik/patonik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
