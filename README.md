@@ -7,12 +7,13 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=java&logoColor=white)
-![PL_SQL](https://img.shields.io/badge/PLSQL?style=for-the-badge&logo=java&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/oracle-pl_sql-red?style=for-the-badge)
 
 ### 🗃️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Database-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Database-brightgreen?style=for-the-badge&logo=oraclel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Liquibase](https://img.shields.io/badge/liquibse-blue?style=for-the-badge)
 
 ### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
